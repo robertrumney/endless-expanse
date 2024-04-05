@@ -18,9 +18,9 @@ To use the shader in your Unity project:
 
 1. Download or clone this repository.
 2. Import the shader into your Unity project's Assets folder.
-3. Create a new Material and select the `Custom/InfiniteWhiteRoomWithBlendedHorizon` shader.
+3. Create a new Material and select the `Custom/EndlessExpanse` shader.
 4. Adjust the Material properties to suit your scene.
-5. Apply the Material to your skybox.
+5. Apply the Material to your skybox in lighting settings.
 
 ## Customization
 
